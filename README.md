@@ -16,5 +16,5 @@ While this is a purely theoretical document, the process of writing it trained m
 2. **First-Principles Thinking:** Understand the absolute mathematical foundation behind physical signals, which is critical for signal processing, modeling, and metrology in real-world engineering.
 
 ## 📁 Files Included
-* `Manual in Mathematical Methods for Physics(2023).pdf`: The complete written guide.
+* `f[Manual in Mathematical Methods for Physics(2023).pdf](https://github.com/user-attachments/files/26612625/Manual.in.Mathematical.Methods.for.Physics.2023.pdf)`: The complete written guide.
 * 
